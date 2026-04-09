@@ -3,7 +3,7 @@ TgCrypto-pyrofork==1.2.7
 motor==3.7.1
 dnspython==2.7.0
 hachoir==3.2.0
-Pillow==12.1.0
+Pillow==11.2.1
 aiohttp==3.13.3
 pytz==2025.2
 psutil==7.2.1
